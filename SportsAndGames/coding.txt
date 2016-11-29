@@ -1,0 +1,9 @@
+4. Add Background Image to Text
+
+Likewise, you can change the color of your text or add a background image. This one only becomes really exciting if your text has a big enough size, which is why I also increased the font size.
+
+Input:
+
+<SPAN STYLE=”background-image: url(http://www.makeuseof.com/wp-content/uploads/2009/08/HTMLEffects03.png ); font-size: 20pt”>MakeUseOf presents…</SPAN>
+
+Output:
